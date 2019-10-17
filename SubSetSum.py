@@ -1,5 +1,6 @@
 #Recursive algorithm to find sum T in set X of POSITIVE integers
 #Assume 0 is part of every set i.e empty set is part of every set
+# T(n) = 2T(n-1) + O(1) -> O(2^n) runtime
 
 def subSetSum(X,T):
   if T == 0:
