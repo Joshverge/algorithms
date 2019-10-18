@@ -1,0 +1,5 @@
+http://blog.technicallyliving.com/2013/11/creating-a-gitignore-file-in-windows/
+
+Create the file .gitignore.txt
+Right click on your current folder and select “open command window here”
+Type ren .gitignore.txt .gitignor
